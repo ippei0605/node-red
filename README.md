@@ -7,4 +7,5 @@ Watson Conversation の Demo です。
   - Tool で workspace-diet.json をインポートしてください
 * Node-RED flow editor
   - flow.json をインポートしてください。
-  - conversation function に Workspace ID、接続情報を設定してください。 
+  - conversation function に Username、Password、Workspace IDを設定してください。
+  
