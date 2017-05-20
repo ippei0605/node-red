@@ -2,9 +2,10 @@
 IBM Bluemix の Node-RED で作成したアプリを保管してます。
 
 ## conversation-demo
-Watson Conversation の Demo です。
+Watson Conversation の Demo です。フローを以下に示します。
 ![conversation-demo-flow](conversation-demo/flow.png)
 
+作成手順を以下に示します。
 * Conversation
   - Tool で workspace-diet.json をインポートしてください
 * Node-RED flow editor
