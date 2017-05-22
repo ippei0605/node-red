@@ -27,7 +27,7 @@
     $(function () {
         const URL = 'http://musictonic.com/music/';
 
-        $(document).ready(function () {
+        $(document).ready(() => {
             $('#startId').on('click', () => {
                 let text = $('#textId').val();
                 $('#playerId').html('<iframe src="' + URL + text + '" width=100% height=300></iframe>');
