@@ -13,9 +13,8 @@ Watson Conversation の Demo です。フローを以下に示します。
   - conversation function に Username (*1)、Password (*1)、Workspace IDを設定してください。
 
 > *1 アプリと Conversation サービスをバインドしている場合は不要です。
-
-Conversation とは関係ありませんが、動画サイトを利用した音楽の再生について検討
-しました。未整理ですが、一旦 [こちら](conversation-demo/music.html) に保管しました。
+>
+> Node-RED や Conversation とは関係ありませんが、動画サイトを利用した音楽の再生について検討しました。未整理ですが、一旦 [こちら](conversation-demo/music.html) に保管しました。
     
 ## 参考資料
 * Qiita: 目からウロコ！Node-REDのデザインパターン10選
